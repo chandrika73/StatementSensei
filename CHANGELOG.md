@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.10.4] - 2025-12-08
+
+### Build
+
+- *(deps)* Bump monopoly-core to 0.19.6
+
 ## [0.10.2] - 2025-09-13
 
 ### ⚙️ Miscellaneous Tasks
